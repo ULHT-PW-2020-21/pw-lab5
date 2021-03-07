@@ -3,7 +3,7 @@
 # Programação Web - Laboratório 5: Website responsivo e dinâmico 
 
 ## Pré-requisitos
-* Deverá ter feito o [lab4](https://github.com/ULHT-PW-2020-21/pw-
+* Deverá ter feito o [lab4](https://github.com/ULHT-PW-2020-21/pw-lab4)
 
 ## Objetivo
 * Neste laboratório formatará os conteúdos website criado no Laboratório 4.
