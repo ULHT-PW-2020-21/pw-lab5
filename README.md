@@ -7,10 +7,8 @@
 
 ## Objetivo
 * Neste laboratório formatará os conteúdos website criado no Laboratório 4.
-* O objetivo deste laboratório não é estético, é experimentar o maior numero de elementos HTML5 assim como seletores e propriedades.
-* Irá estruturar o conteúdo com etiquetas semânticas de HTML5.
-* Irá depois estilizar o website usando o maior número de seletores e propriedades CSS. 
-* Este laboratório deverá ser concluido antes da sua aula prática da semana de 8 de março. Este será avaliado nessa aula. 
+* O objetivo deste laboratório é criar um layout responsivo, consoante o tamanho do ecrã do browser.
+* Este laboratório deverá ser concluido antes da sua aula prática da semana de 22 de março. Este será avaliado nessa aula. 
 
 ## Recomendações
 * Leia o enunciado todo com atenção antes de o começar a resolver para entender o que fará.
