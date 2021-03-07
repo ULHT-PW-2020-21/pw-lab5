@@ -36,6 +36,13 @@ lab4).
 Adicione à estrutura das suas páginas HTML um elemento `aside`, com conteúdo curto e secundário. O conteúdo pode ser comum a todas as páginas e deverá estar depois do elemento `main` e antes do `footer`.
 
 # 3. Layout com Design Responsivo
+Crie um layout flúido baseado em CSS Grid, responsivo ao tamanho do ecrã:
+1. Configure adequadamente informação sobre o viewport em todas as páginas HMTL. 
+2. Usando media queries e CSS Grid, defina layouts responsivo do seu website para:
+    1. Smartphone
+    2. Tablet
+    3. Desktop
+    
 
 # 4. Efeitos e Animações com keyframes
 
