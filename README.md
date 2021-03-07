@@ -49,11 +49,8 @@ crie, como submenus da página multimédia
 
 # 4. Menu dropdown
 
-1. Para cada um dos menus principais escolha um ícone de um dos repositórios apresentados na aula. 
-2. Aglomere os ícones numa só imagem (*image sprite*). 
-3. recorrendo ao atributo clipping e atributo `:before`, posicione cada um dos icones ao lado direito do nome do menu
-Crie um menu onde insira imagens recorrendo a uma image sprite:
-dropdown onde insira
+1. Para cada um dos menus principais escolha um ícone de um dos repositórios de ícones (Google, Awesome Font ou Bootstrap). 
+2. Crie um menu dropdown.
 
 
 # 9. Submissão
