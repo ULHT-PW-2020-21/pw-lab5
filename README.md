@@ -70,4 +70,4 @@ crie, como submenus da página multimédia
     * link do seu repositório privado no GitHub
     * adicione os docentes de PW como membros do seu repositório, que têm como usernames no GitHub: luciostuder, logdarkmatter, rfgsantos.
 
-Esperamos que tenha gostado de aplicar os conhecimentos de HTML5 e CSS!
+Esperamos que tenha gostado de aplicar os conhecimentos de HTML5 e CSS para criar um layout dinamico e responsivo!
