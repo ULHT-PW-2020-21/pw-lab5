@@ -13,7 +13,7 @@ fazer menu que muda os layouts
 
 ## Objetivo
 * Neste laboratório formatará os conteúdos website criado no Laboratório 4.
-* O objetivo deste laboratório é aplicar os conhecimentos adquiridos esta semana na aula teórica, criando layouts responsivo com CSS Grid, consoante o tamanho do ecrã do browser.
+* O objetivo deste laboratório é aplicar os conhecimentos adquiridos esta semana na aula teórica, criando [layouts com design responsivos](https://secure.grupolusofona.pt/ulht/moodle/pluginfile.php/800079/course/section/398731/pw-02.7-design-responsivo.pdf) com [CSS Grid e flexbox](https://secure.grupolusofona.pt/ulht/moodle/pluginfile.php/800079/course/section/398731/pw-02.8-layouts-flex-grid.pdf), consoante o tamanho do ecrã do browser.
 * Este laboratório deverá ser concluido antes da sua aula prática da semana de 22 de março. Este será avaliado nessa aula. 
 
 ## Recomendações
