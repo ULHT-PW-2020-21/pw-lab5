@@ -9,11 +9,11 @@ fazer menu que muda os layouts
 
 ## Pré-requisitos
 * Deverá ter feito o [lab4](https://github.com/ULHT-PW-2020-21/pw-lab4)
-* Deverá ter visto o video e slides sobre transformações e animações CSS, disponivel no Educast e Moodle respetivamente 
+* Deverá ter visto os slides e vídeo sobre transformações e animações CSS, disponivel no [Moodle](https://secure.grupolusofona.pt/ulht/moodle/pluginfile.php/800079/course/section/398731/pw-02.10-efeitos-sobre-imagens-e-animacoes.pdf) e [canal Educast](https://educast.fccn.pt/vod/channels/trm11uixg?locale=en) da disciplina de Programação Web, respetivamente.
 
 ## Objetivo
 * Neste laboratório formatará os conteúdos website criado no Laboratório 4.
-* O objetivo deste laboratório é aplicar os conhecimentos adquiridos esta semana na aula teórica, criando um layout responsivo, consoante o tamanho do ecrã do browser.
+* O objetivo deste laboratório é aplicar os conhecimentos adquiridos esta semana na aula teórica, criando layouts responsivo com CSS Grid, consoante o tamanho do ecrã do browser.
 * Este laboratório deverá ser concluido antes da sua aula prática da semana de 22 de março. Este será avaliado nessa aula. 
 
 ## Recomendações
