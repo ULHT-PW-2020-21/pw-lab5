@@ -39,20 +39,24 @@ fazer menu que muda os layouts
 Adicione à estrutura das suas páginas HTML dois elementos `aside`, com conteúdo curto e secundário. Um pode ser com algumas fotografias pequenas, e outro com 2-3 frases. O conteúdo será comum a todas as páginas e, no HTML, poderão estar depois do elemento `main` e antes do `footer`.
 
 # 3. Layout com Design Responsivo
-1. Conheça os layouts básicos [1](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts) 
-2. Veja alguns princípios de como criar um layout balanceado [2](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009).
-3. O Webdesign está em grande evolução e é uma área diferente da programação Web. Conheça as novas tendências [3](https://en.99designs.pt/blog/trends/web-design-trends/). São complexas e requerem experiência, mas talvez o inspire nalguma ideia mais simples e implementável.
+1. Conheça os [layouts básicos](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts) 
+2. Conheça alguns [princípios](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009) para criar um layout balanceado.
+3. O Webdesign está em grande evolução e é uma área diferente da programação Web; conheça algumas das [novas tendências](https://en.99designs.pt/blog/trends/web-design-trends/). São complexas e requerem experiência, mas talvez o inspire nalguma ideia mais simples e implementável.
 4. Aplique as técnicas de CSS Grid e media queries para definir de forma imaginativa mas aplicando alguns dos princípios que leu, layouts responsivos do seu website para smartphone, tablet e desktop. Deverão ser todos diferentes na forma como apresentam os elementos semanticos HTML5 que tem atualmente:`header`, `nav`, `main`, `aside`, `aside` e `footer`. Explore de forma imaginativa formas de os apresentar.
+5.  Use em especial espaços vazios devidamente configurados com CSS Grid
 7. Configure adequadamente informação sobre o viewport e box-sizing em todas as páginas HMTL. 
 8. Use flexbox para posicionar os elementos do seu menu que agora deverão ser: Introdução, Localização, Multimédia, Informações, Quizz, Comentários, HTML5 & CSS, Home. Organize-os, recorrendo a espaços em branco, por forma a que fiquem evidentes diferentes grupos de elementos. Por exemplo: 4 (Introdução, Localização, Multimédia, Informações, Quizz) + 3 (quizz, comentarios e HTML&CSS) + 1 (Home). 
 
 # 4. Efeitos e Animações com keyframes
 
-Na página multimédia crie um contentor com uma galeria de fotografias:
+1. Na página multimédia crie um contentor com uma galeria de fotografias:
+
     1. Escolha 4 fotografias diferentes a seu gosto associadas à cidade que escolheu, formatadas com dimensão 300px x 200px. 
     2. Insira na página galeria três cópias de cada, totalizando assim 12 fotografias. Use flexbox para que a disposição das imagens fique responsiva e organizada a seu gosto. 
-    3. Em cada grupo de três fotos semelhantes, estilize duas com efeitos e transições CSS a seu gosto diferentes.
-Crie igualmente na página de entrada uma animação usando keyframes.
+    3. Se quiser, associe também blocos de texto. 
+    4. Em cada grupo de três fotos semelhantes, estilize duas com efeitos e transições CSS a seu gosto diferentes.
+
+2. Crie igualmente na página de entrada uma animação usando keyframes.
 
 # 5. Página HTML e CSS
 Atualize os conteúdos desta página, reportando as propriedades que utilizou neste laboratório. Divida os conteúdos em diferentes contextos.
