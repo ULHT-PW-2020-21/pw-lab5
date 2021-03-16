@@ -9,7 +9,7 @@ fazer menu que muda os layouts
 
 ## Pré-requisitos
 * Deverá ter feito o [lab4](https://github.com/ULHT-PW-2020-21/pw-lab4)
-* Deverá ter visto os slides e vídeo sobre transformações e animações CSS, disponivel no [Moodle](https://secure.grupolusofona.pt/ulht/moodle/pluginfile.php/800079/course/section/398731/pw-02.10-efeitos-sobre-imagens-e-animacoes.pdf) e [canal Educast](https://educast.fccn.pt/vod/channels/trm11uixg?locale=en) da disciplina de Programação Web, respetivamente.
+* Deverá ter visto os slides e vídeo sobre transformações e animações CSS, disponíveis no [Moodle](https://secure.grupolusofona.pt/ulht/moodle/pluginfile.php/800079/course/section/398731/pw-02.10-efeitos-sobre-imagens-e-animacoes.pdf) e [canal Educast](https://educast.fccn.pt/vod/channels/trm11uixg?locale=en) da disciplina de Programação Web, respetivamente.
 
 ## Objetivo
 * Neste laboratório formatará os conteúdos website criado no Laboratório 4.
