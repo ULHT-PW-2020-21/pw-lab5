@@ -9,20 +9,20 @@ fazer menu que muda os layouts
 
 ## Pré-requisitos
 * Deverá ter feito o [lab4](https://github.com/ULHT-PW-2020-21/pw-lab4)
+* Deverá ter visto o video e slides sobre transformações e animações CSS, disponivel no Educast e Moodle respetivamente 
 
 ## Objetivo
 * Neste laboratório formatará os conteúdos website criado no Laboratório 4.
-* O objetivo deste laboratório é criar um layout responsivo, consoante o tamanho do ecrã do browser.
+* O objetivo deste laboratório é aplicar os conhecimentos adquiridos esta semana na aula teórica, criando um layout responsivo, consoante o tamanho do ecrã do browser.
 * Este laboratório deverá ser concluido antes da sua aula prática da semana de 22 de março. Este será avaliado nessa aula. 
 
 ## Recomendações
 * Leia o enunciado todo com atenção antes de o começar a resolver para entender o que fará.
 * Execute com atenção cada passo, certificando-se que implementa todos os detalhes. Contém todos os detalhes para a criação do website. 
-* Se tiver alguma dúvida, recorra ao [Moodle](https://secure.grupolusofona.pt/ulht/moodle/course/view.php?id=38119), onde no Programa existem links para os slides de cada tópico, assim cmoo vídeos, contendo todos os conhecimentos que precisa para realizar este laboratório.
-lab4).
+* Se tiver alguma dúvida, recorra ao [Moodle](https://secure.grupolusofona.pt/ulht/moodle/course/view.php?id=38119), onde no Programa existem links para os slides de cada tópico, assim como vídeos, contendo todos os conhecimentos que precisa para realizar este laboratório.
 
 # 1. Estruturação do repositório de laboratórios
-1. Clone  (descarregue uma cópia) o seu repositório no seu computador local da seguinte forma:
+1. Clone o seu repositório no seu computador local da seguinte forma:
     1. abra um processador de comandos (Tecla Windows e escreva `cmd`, ou `Powershell`, ou `git bash`)
     2. escolha a pasta onde quer colocar o repositório (navegando com o comando `cd nome-de-pasta` para entrar numa determinada pasta)
     3. escreva o comando `git clone https://github/seuusername/pw-labs-nomeapelido-numero` (hiperlink do seu repositório, com o seu username do GitHub e nome do repositório).
@@ -36,12 +36,15 @@ lab4).
 
 # 2. Estrutura das páginas
 
-Adicione à estrutura das suas páginas HTML um elemento `aside`, com conteúdo curto e secundário. O conteúdo pode ser comum a todas as páginas e deverá estar depois do elemento `main` e antes do `footer`.
+Adicione à estrutura das suas páginas HTML dois elementos `aside`, com conteúdo curto e secundário. O conteúdo pode ser comum a todas as páginas e, no html, poderão estar depois do elemento `main` e antes do `footer`.
 
 # 3. Layout com Design Responsivo
-Crie um layout flúido baseado em CSS Grid, responsivo ao tamanho do ecrã:
-1. Configure adequadamente informação sobre o viewport em todas as páginas HMTL. 
-2. Usando media queries e CSS Grid, defina layouts responsivos do seu website para smartphone, tablet e desktop. Deverão ser todos diferentes na forma como apresentam os elementos semanticos HTML5 (header, nav, main, aside e footer).
+1. Conheça os layouts básicos [1](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts) 
+2. Veja alguns princípios de como criar um layout balanceado [2](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009).
+3. O Webdesign está em grande evolução e é uma área diferente da programação Web. Conheça as novas tendências [3](https://en.99designs.pt/blog/trends/web-design-trends/). São complexas e requerem experiência, mas talvez o inspire nalguma ideia mais simples e implementável.
+4. Aplique as técnicas de CSS Grid e Flexbox para criar para o seu website dois layouts responsivos ao tamanho do ecrã.
+5. Configure adequadamente informação sobre o viewport e box-sizing em todas as páginas HMTL. 
+6. Usando media queries e CSS Grid, defina layouts responsivos do seu website para smartphone, tablet e desktop. Deverão ser todos diferentes na forma como apresentam os elementos semanticos HTML5 (header, nav, main, aside e footer).
 
 # 4. Efeitos e Animações com keyframes
 
